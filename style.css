@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+} 
+.con{
+  text-align: center;
+}
+body{
+  background-color: rgb(83, 159, 169);
+}
+.main{
+   height: 75vh;
+   width: 45vh;
+   border: 6px solid white;
+   margin: auto;
+   margin-top: 12vh;
+   background-color: black;
+   border-radius: 5vh;
+}
+div button{
+   width: 8vh;
+   height: 8vh;
+   border-radius: 10vh;
+   background-color: rgb(27, 27,27);
+   margin: 0.5vh;
+   font-size: 2vh;
+   color:white ;
+
+}
+#screen{
+    width: 40vh;
+    height: 20vh;
+    background: none;
+    border: none;
+    outline: none;
+    text-align: end;
+    color: white;
+    font-size: 8vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ip1{
+  width: 8vh;
+   height: 8vh;
+   border-radius: 10vh;
+   background-color: rgb(244, 122, 14);
+   margin: 0.5vh;
+   font-size: 2vh;
+   color: white;
+}
+.ip0{
+  width: 18vh;
+  color: white;
+}
